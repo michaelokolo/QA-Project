@@ -60,3 +60,7 @@ p{
 .show-text.minus-icon{
     display:inline;
 }
+
+.show-text.plus-icon{
+    display:none;
+}
