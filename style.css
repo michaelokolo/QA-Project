@@ -53,14 +53,14 @@ p{
     display: none;
 }
 
-.show-text.question-text{
+.show-text .question-text{
     display: block;
 }
 
-.show-text.minus-icon{
+.show-text .minus-icon{
     display:inline;
 }
 
-.show-text.plus-icon{
+.show-text .plus-icon{
     display:none;
 }
